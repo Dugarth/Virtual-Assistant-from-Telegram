@@ -1,5 +1,6 @@
 
 # Virtual-Assistant-from-Telegram
+<<<<<<< HEAD
 Prerequisites
 Python 3.6 or higher installed on your system.
 An internet connection.
@@ -71,3 +72,6 @@ Send /start to start the bot. The bot will greet you and tell you the commands y
 Send /create_image to create an image. The bot will ask you for text input. The input you give will be used to generate an image.
 Send /talk_assistant to talk with the AI assistant. The bot will ask you for text input. The input you give will be used to generate a conversation with the AI assistant.
 Please note that the bot currently does not support voice messages. Please use text messages instead.
+=======
+This code is a Telegram bot that can perform two tasks: create images based on provided text and have a conversation with the assistant using OpenAI's GPT-3.5-turbo model. It uses the Telegram API, requests library, and speech_recognition library for voice input (not available currently).
+>>>>>>> origin/main
